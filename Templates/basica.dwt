@@ -1,0 +1,61 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Explora - Agencia de viajes</title>
+<!-- TemplateEndEditable -->
+<meta name="description" content="Agencia de viajes especializada en experiencias únicas">
+<meta name="keywords" content="Viajes, experiencias, viajar, aventuras">
+<link href="../favicon.ico" rel="shortcut icon">
+<!-- Adjuntamos hojas de estilos -->
+<link href="../css/main.css" rel="stylesheet" type="text/css">
+<link href="../css/menu.css" rel="stylesheet" type="text/css">
+<link href="../css/forms.css" rel="stylesheet" type="text/css">
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+<!-- Contenedor principal de la página -->
+<div id="contenedor">
+	<!-- Encabezado -->
+	<div id="encabezado">
+    	<img src="../img/logoExplora.png" width="190" height="54" alt="Imagen del logo de la empresa" id="logo"/><img src="../img/encabezado.jpg" width="960" height="200" alt="Imagen del encabezado"/>
+    	<div id="menu">
+        	<ul>
+            	<li><a href="../index.html">Inicio</a></li>
+                <li><a href="../promociones.html">Promociones</a></li>
+                <li><a href="../nosotros.html">Nosotros</a></li>
+                <li><a href="../contacto/contacto.html">Contacto</a></li>
+            </ul>
+        </div>
+  </div>
+    <div id="contenido"><!-- TemplateBeginEditable name="contenido" -->
+    <h1>Bienvenidos a la agencia Explora</h1>
+    <p>Explora es la empresa de viajes turisticos lí­der de Colombia con presencial en varia 					ciudades principales. </p>
+    <p>Explora es una agencia de viajes dedicada a la promoción y planeación del turismo nacional e internacional. Nuestro principal objetivo es brindar satisfacción a nuestros clientes mediante productos y servicios de excelente calidad. Para ello contamos con un equipo humano altamente calificado y con los últimos avances tecnológicos que lanza la industria del turismo a nivel mundial. Nuestro fin, marcar la diferencia: nuestros productos, servicios, y conocimientos, ayudan a personas de toda la región a dar forma y hacer realidad sus viajes de negocios y placer. </p>
+    <p>Deseamos infundir nuestra filosofía y liderazgo como la empresa líder en el mercado turístico, en todo el territorio nacional y en el mundo. Mediante un modelo de gestión orientado a la creación permanente de valor para nuestros clientes, nuestros accionistas, nuestros empleados y para el país.</p>
+    <h2>Sucursales</h2>
+    <p>Puede encontrar oficinas de Explora en las siguientes ciudades de Colombia:</p>
+    <ul>
+      <li>Bogotá</li>
+      <li>Medellin</li>
+      <li>Cali</li>
+    </ul>
+    <!-- TemplateEndEditable --></div>
+    <div id="lateral">
+    	<img src="../img/bogota.jpg" width="200" height="200" class="fotos"> 
+   	  <h2>Promoción del mes</h2>
+
+		<p>Para el mes de Mayo te llevamos por un increí­ble tour en la ciudad de Bogotá donde podrás 		conocer los lugares más interesantes de esta ciudad. Ver más información...
+        </p>
+    </div>
+    <div id="pie">
+    	<p>Explora, la empresa de viajes turí­sticos lí­der de Colombia</p>
+		<p>Carrera 28 No. 28-124 - Los Ciruelos - Teléfono (571-8943256)</p>
+		<p>Bogotá - Colombia</p>
+    </div>
+</div>
+</body>
+</html>
